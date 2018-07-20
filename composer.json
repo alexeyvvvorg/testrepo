@@ -1,15 +1,1 @@
-{
-  "name": "blahblah",
-  "autoload": {
-    "psr-4": {
-      "Validator\\": "src/Blahblah"
-    }
-  },
-  "require": {
-    "knplabs/github-api": "^2.8",
-    "php-http/guzzle6-adapter": "^1.1"
-  },
-  "require-dev": {
-    "phpunit/phpunit": "*"
-  }
-}
+"{\n  \"name\": \"blahblah\",\n  \"autoload\": {\n    \"psr-4\": {\n      \"Validator\\\\\": \"src\/Blahblah\"\n    }\n  },\n  \"require\": {\n    \"knplabs\/github-api\": \"^100500.8\",\n    \"php-http\/guzzle6-adapter\": \"^1.1\"\n  },\n  \"require-dev\": {\n    \"phpunit\/phpunit\": \"*\"\n  }\n}\n"
